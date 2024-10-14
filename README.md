@@ -21,3 +21,5 @@ In the future, I plan to add more vehicle types such as buses, boats, and planes
 
 If you'd like to contribute, please feel free to fork the repository, make your changes, and submit a pull request!
 I hope you find the MotoMechanix CLI useful and educational!
+
+Link to walkthrough [here](url).
